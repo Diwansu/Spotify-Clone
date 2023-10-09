@@ -1,0 +1,23 @@
+#head {
+    background-color: black;} 
+    #sec {
+        background-color: black;
+        direction: ltr;
+        height:100%;
+        width:fit-content;
+        padding:1cm;
+        text-align: center;
+     
+     }
+     #place{
+        direction:rtl;
+      width: fit-content;
+     height:100%;} 
+    #control{
+        background-color: black;
+        width:100%;
+        height:fit-content;
+    }
+    footer{
+        background-color:chartreuse;
+    }
